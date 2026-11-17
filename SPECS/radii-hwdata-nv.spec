@@ -43,7 +43,10 @@ jq empty %{buildroot}%{_datadir}/%{name}/hwdata-nv.json
 * Tue Nov 03 2026 Aditya Rajan <arajan@redhat.com> - 0.62.71.10-1
 - Update to 0.62.71.10
 
-* Wed Oct 21 2026 Aditya Rajan <arajan@redhat.com> - 0.62.71.09-1
+* Fri Oct 02 2026 Aditya Rajan <arajan@redhat.com> - 0.62.71.09-2
+- Add tier1 tests
+
+* Thu Oct 01 2026 Aditya Rajan <arajan@redhat.com> - 0.62.71.09-1
 - Update to 0.62.71.09
 
 * Wed Mar 18 2026 Mikolaj Izdebski <mizdebsk@redhat.com> - 0.23.48.01-1
